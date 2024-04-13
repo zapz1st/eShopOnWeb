@@ -1,5 +1,6 @@
 name: eShopOnWeb Build and Test
 
+#Add by zapz for test GitHub Actions workflows...
 #Triggers (uncomment line below to use it)
 on: [push, workflow_dispatch]
 
