@@ -6,7 +6,7 @@ on: [push, workflow_dispatch]
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
-  RESOURCE-GROUP: cloud-shell-storage-centralindia
+  RESOURCE-GROUP: rg-eshoponweb-zapz
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 5b2d4e74-b7ef-4034-b8d8-e0e27b5bf479
